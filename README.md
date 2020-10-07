@@ -1,1 +1,3 @@
-# go-search-engine
+# gofts
+
+golang full-text searchengine
